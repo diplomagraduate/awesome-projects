@@ -28,6 +28,18 @@ This repository is Open for all Beginners who are willing to participate in Hack
             <b>Vinayak Patil</b>
             </a><br />
         </td>
+        <td align="center">
+            <a href="https://github.com/Nick-h4ck3r">
+            <img src="https://avatars.githubusercontent.com/u/70500923?v=4" width="100px;" alt="" style="border-radius:50%"/> <br />
+            <b>Nikhil Kadam</b>
+            </a><br />
+        </td>
+         <td align="center">
+            <a href="https://github.com/Gajendra-Sonare">
+            <img src="https://avatars.githubusercontent.com/u/60471843?v=4" width="100px;" alt="" style="border-radius:50%"/> <br />
+            <b>Gajendra Sonare</b>
+            </a><br />
+        </td>
        </tr>
 </table>
 
