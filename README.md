@@ -1,4 +1,4 @@
-# HactoberFest 2k21
+# HacktoberFest 2k21
 
 This repository is Open for all Beginners who are willing to participate in Hacktoberfest.
 
