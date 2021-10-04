@@ -1,5 +1,5 @@
-a = int(input())
-b = int(input())
+a = input()
+b = input()
 
-sum = a + b
+sum = eval(f"{a} + {b}")
 print("Sum of {a} and {b} = {sum}".format(a=a, b=b, sum=sum))

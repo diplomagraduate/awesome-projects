@@ -1,5 +1,5 @@
-a = int(input())
-b = int(input())
+a = input()
+b = input()
 
-mul = a * b
+mul = eval(f"{a} * {b}")
 print("Multiplication of {a} and {b} = {mul}".format(a=a, b=b, mul=mul))
